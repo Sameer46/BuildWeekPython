@@ -1,0 +1,23 @@
+nomi,descrizioni,prezzi_interi,taglie_disponibili,colori_disponibili
+Sneakers 82066,bianca con inserti verde menta,105.00,"['36', '39']","['d6d0da', '026f38']"
+Sneakers 82066,bianca con inserti laminato argento,105.00,"['36', '37', '39', '40']","['d6d0da', '026f38']"
+Sneaker Marina,bianca con tallonetta in glitter rame,109.00,"['35', '39', '41']","['CD7F32', 'eec4ab']"
+Sneaker Marina,bianca con tallonetta in glitter rame,109.00,"['35', '37']","['CD7F32', 'eec4ab']"
+Sneaker Nina,"bianca, saetta  e glitter platino, tallonetta glitter platino e fondo effetto sporcato",109.00,"['35', '36', '37', '38', '39', '41']",[]
+Sneakers 8100,in nappa bianca forata con tallonetta in crosta fuxia e fondo platform,95.00,"['36', '37', '39', '40']","['FFFFFF', '1f2839', 'e80980']"
+Sneakers 8100,in nappa bianca forata con tallonetta in crosta blu e fondo platform,95.00,"['36', '37', '38', '39', '40', '41']","['FFFFFF', '1f2839', 'e80980']"
+Sneakers 2651 cat,color oro effetto intrecciato con catena oro e fondo 3 cm,109.00,"['35', '36', '37', '38', '41']","['FFFFFF', 'e4a677', '786153', 'CD7F32']"
+Sneakers 2651 cat,color cuoio effetto intrecciato con catena oro e fondo 3 cm,109.00,"['35', '36', '38', '39', '40']","['FFFFFF', 'e4a677', '786153', 'CD7F32']"
+Sneakers 23039,nera con tallonetta color platino e accessorio a forma di ape,89.90,"['36', '37', '38', '39', '40', '41']","['000000', 'FFFFFF']"
+Sneakers 23039,bianca con tallonetta color platino e accessorio a forma di ape,89.90,"['35', '36']","['000000', 'FFFFFF']"
+Sneakers 2651 cat,color latte effetto intrecciato con catena oro e fondo 3 cm,109.00,"['35', '36', '37', '38', '39', '40']","['FFFFFF', 'e4a677', '786153', 'CD7F32']"
+Sneakers 2651 cat,bianca effetto intrecciato con catena oro e fondo 3 cm,109.00,"['38', '39']","['FFFFFF', 'e4a677', '786153', 'CD7F32']"
+Sneakers 23036,"cielo liscia, con linguetta posteriore e  elastico sul bordo",79.90,"['36', '39', '40', '41']",[]
+Sneakers 23222,"bianca con tallonetta laminata platino, fondo 3 cm e accessori a forma di ape, scarabeo e mosca",99.90,['36'],[]
+Sneakers 23037,effetto intrecciato color sabbia,79.90,"['37', '38', '39']",[]
+Sneakers 9040,cielo forata,79.90,"['35', '36', '37', '38', '39', '41']","['FFFFFF', 'e4a677', '09cfda']"
+Sneakers 9040,beige forata,79.90,"['36', '37']","['FFFFFF', 'e4a677', '09cfda']"
+Sneakers 23180,nera effetto squame,89.90,['36'],"['ac8e83', 'e4a677', '000000']"
+Sneakers 9040,bianca forata,79.90,"['36', '38']","['FFFFFF', 'e4a677', '09cfda']"
+Sneakers 23180,latte effetto squame,89.90,"['36', '38']","['ac8e83', 'e4a677', '000000']"
+Sneakers 23180,mattone effetto squame,89.90,"['35', '36', '37', '38', '40', '41']","['ac8e83', 'e4a677', '000000']"
